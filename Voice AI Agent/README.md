@@ -1,6 +1,6 @@
 # LiveKit Voice AI Agent 
 
-# 🏡 Real Estate AI Assistant (LiveKit + OpenAI + Deepgram)
+# 🏡 Real Estate AI Assistant (LiveKit + OpenAI Llama + Deepgram)
 
 An intelligent **voice-based AI agent** built with **LiveKit**, designed to assist **real estate professionals** by answering property inquiries, qualifying leads, and managing client interactions in real time.
 
