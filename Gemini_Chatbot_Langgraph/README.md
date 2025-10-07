@@ -108,18 +108,3 @@ All exchanges are automatically stored in `logging.txt` for review.
 * Add persistent vector-based memory (e.g., Pinecone)
 * Enable function calling or structured outputs
 * Deploy on Hugging Face or a local web UI
-
----
-
-## 🧑‍💻 Author
-
-**Rodrigo Zayas**
-AI Engineer in progress — passionate about building agentic systems and automation with LangGraph & LLMs.
-
----
-
-## 🪪 License
-
-This project is released under the **MIT License** — feel free to use and modify it.
-
-
