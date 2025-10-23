@@ -1,0 +1,7 @@
+{
+  "name": "RealEstateAgent",
+  "voice": "alloy",
+  "language": "en",
+  "prompt": "You are a friendly real estate assistant. Help clients find properties and answer their questions clearly.",
+  "endpoint": "https://TU_URL_PUBLICA/retell-webhook"
+}
